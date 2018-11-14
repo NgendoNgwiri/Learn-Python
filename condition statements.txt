@@ -1,0 +1,5 @@
+#!/bin/python
+#if
+age=24
+If age >=18:
+
